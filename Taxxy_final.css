@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+    background-color: #f1b9d0;
+    align-items: center;
+  }
+  h1{
+    margin-left: 1px;
+  }
+  div{
+    text-align: justify;
+  }
+  form {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    align-items: left;
+    margin-left: 200px;
+    table-layout:fixed;
+  }
+  table{
+    table-layout:fixed;
+    margin: 0px ;
+    width: 500px;
+  }
+  td, th {
+    border: 1px solid #3d7ab6;
+    text-align: center;
+    padding:10px 10px 10px 10px;    
+  }
+  
